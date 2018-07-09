@@ -325,6 +325,7 @@ h1 {
 #contact i {
 	font-size: 70px;
 	transition-duration: 0.2s;
+	color: white;
 }
 
 #contact i:hover {
