@@ -193,6 +193,12 @@
  #story img {
 	width: 120%;
 }
+
+ #sessions {
+	background-color: #459657;
+	color: white;
+}
+
  #mission {
 	color: white;
 	background-color: #ae9b63;
