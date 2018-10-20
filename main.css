@@ -23,6 +23,7 @@
 }
  h1 {
 	letter-spacing: 1px;
+	font-size: 40px;
 }
  #homenavig {
 	margin: 25px auto;
@@ -195,6 +196,7 @@
 }
 
  #sessions {
+	padding: 80px 10%;
 	background-color: #459657;
 	color: white;
 }
@@ -220,6 +222,20 @@
 	padding: 80px 10%;
 	text-align: center;
 }
+
+#sessions h1 {
+	font-size: 50px;
+}
+
+#sessions a{
+	color: white;
+}
+
+#sessions a:hover{
+	color: #cccccc;
+	text-decoration: none;
+}
+
  #team h1 {
 	font-size: 50px;
 	color: #105830;
